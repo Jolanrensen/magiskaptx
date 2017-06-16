@@ -1,0 +1,7 @@
+id=aptx
+name=Android O APT-X libraries
+version=v1
+versionCode=1
+author=Jolanrensen
+description=Simple module to place the missing APT-X libraries in /system/. Android 8.0 O is needed for this to work.
+template=3
